@@ -1,6 +1,7 @@
 <!--## Hi there 👋-->
 <!--<img src="https://capsule-render.vercel.app/api?type=Waving&color=&height=200&section=header&text=Hello<br>I'm%JingyoSeo&fontSize=90" /> -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9y06&theme=nord_dark)
+![]http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
 
 <!--
 **9y06/9y06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
