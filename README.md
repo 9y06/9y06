@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello👋&nbsp;This&nbsp;is&nbsp;Jingyo's&nbsp;Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello👋&nbsp;This&nbsp;is&nbsp;Jingyo's&nbsp;Github&fontSize=60)
 <!--
 **9y06/9y06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
