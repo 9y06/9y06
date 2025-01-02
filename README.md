@@ -1,4 +1,4 @@
-<!--## Hi there 👋-->
+## Hi there 👋
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorlist=10&height=200&section=header&text=JINGYO's&nbsp;GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36) -->
 <!--
 **9y06/9y06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
