@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorlist=10&height=200&section=header&text=JINGYO's&nbsp;GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36) -->
 <!--
 **9y06/9y06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/9y06/github-stats-transparent/output/generated/languages.svg"/>
   <img src="https://raw.githubusercontent.com/9y06/github-stats-transparent/output/generated/overview.svg"/>
+  <img src="https://raw.githubusercontent.com/9y06/github-stats-transparent/output/generated/languages.svg"/>
 </p>
